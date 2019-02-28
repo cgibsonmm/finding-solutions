@@ -104,8 +104,8 @@ Now add values to your search [`combine string values js`](https://www.google.co
 
 *See the difference one word can make?*
 1. Read the definition
-2. W3schools
-3. Click on try it
+2. [W3schools](https://www.w3schools.com/jsref/jsref_concat_string.asp)
+  * click on try it
   * change a value 
   * click run button
   * click me button, *this is what you were looking for!*
@@ -145,6 +145,34 @@ https://www.w3schools.com/js/js_loop_while.asp
 
 * Check out the **Video** tab to dive deeper into the material
 * When searching to resolve errors, take out out specific line number details and focus on the key words of the error as well as adding the language, framework or topic
+
+#### Sample Error search
+
+**While working on your javascript project you encounter this error in your console**
+
+```
+Uncaught TypeError: Cannot read property 'value' of undefined
+```
+
+Copy and paste the error to search for solutions
+
+[`Uncaught TypeError: Cannot read property 'value' of undefined`](https://www.google.com/search?q=Uncaught+TypeError%3A+Cannot+read+property+%27value%27+of+undefined&oq=Uncaught+TypeError%3A+Cannot+read+property+%27value%27+of+undefined)
+
+
+Refine your search with the tips described in this readme
+
+[`error cannot read property of undefined js`](https://www.google.com/search?q=error+cannot+read+property+of+undefined+js&oq=error+cannot+read+property+of+undefined+js)
+
+1. Look for information on the search results page without clicking links
+2. Use the drop downs to find your answer
+3. Check stack flow - scan quickly
+4. Read articles, *this is what you were looking for!*
+
+https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/
+
+
+https://davidwalsh.name/fix-javascript-errors
+
 
 
 ### LAST STEP: Reach out for assistance
