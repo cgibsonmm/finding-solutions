@@ -89,8 +89,7 @@ If you're looking for a place or product in a specific location, add the locatio
 
 **You want to change a number to a string**
 
-Search [`change a number to a string js`](
-https://www.google.com/search?ei=5Pd2XOXEKcGQ_Qal6rywAw&q=change+a+number+to+a+string+js&oq=change+a+number+to+a+string+js&gs_l=psy-ab.3..0i22i30l2.9745.17598..18138...0.0..0.225.2453.24j5j1......0....1..gws-wiz.......0i71j35i39j0i131j0j0i67j0i20i263j0i22i10i30.FKBMZLqyNCU)
+Search [`number to string js`](https://www.google.com/search?q=number+to+string+js)
 
 
 1. Look for information on the search results page without clicking links
@@ -99,9 +98,9 @@ https://www.google.com/search?ei=5Pd2XOXEKcGQ_Qal6rywAw&q=change+a+number+to+a+s
 
 **Can’t remember concat?**
 
-Search [`combine string js`](https://www.google.com/search?client=firefox-b-1-d&q=combine+string+js)
+Search [`combine string js`](https://www.google.com/search?q=combine+string+js)
 
-Now add values to your search [`combine string values js`](https://www.google.com/search?client=firefox-b-1-d&ei=tER3XPihFKeQ_Qa755DoCA&q=combine+string+values+js&oq=combine+string+values+js&gs_l=psy-ab.3..35i39.26752.28099..28307...0.0..0.299.904.3j3j1......0....1..gws-wiz.......0i71j0i8i30j0i8i7i30.1Idq0BCC3mU)
+Now add values to your search [`combine string values js`](https://www.google.com/search?q=combine+string+values+js)
 
 *See the difference one word can make?*
 1. Read the definition
@@ -113,7 +112,7 @@ Now add values to your search [`combine string values js`](https://www.google.co
 
 **Stack Overflow**
 
-Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=concat+arrays)
+Search [`concat arrays`](https://www.google.com/search?q=concat+arrays)
 1. Read the definition
 2. W3schools
 3. Check [stack overflow](https://stackoverflow.com/questions/3975170/javascript-how-to-join-combine-two-arrays-to-concatenate-into-one-array)
@@ -123,7 +122,7 @@ Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=co
 
 **In order to understand loops and while loops**
 
-Search [`for loop js`](https://www.google.com/search?ei=bgp3XO6HI4z5_AaHmY-QCg&q=for+loop+js&oq=for+loop+js&gs_l=psy-ab.3..35i39j0j0i20i263j0l7.15307810.15307810..15308594...0.0..0.96.96.1......0....2j1..gws-wiz.......0i71.Al-lO1eot14)
+Search [`for loop js`](https://www.google.com/search?q=for+loop+js)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
@@ -156,4 +155,6 @@ In most cases, this should be your final step in finding solutions. In order to 
 
 
 
+### Additional Resources
 
+[LMGTFY](http://lmgtfy.com/?q=finding+solutions+to+all+your+problems)
