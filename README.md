@@ -1,3 +1,5 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+
 # Finding solutions
 
 ## Objectives
@@ -57,6 +59,7 @@ If you're looking for a place or product in a specific location, add the locatio
 * Add `react`,`express`,`rails` - be specific to the framework
 
 * Add `tutorial` - if you want to learn something
+* Add `error` - if you want to target an error
 * Check out the **Video** tab to dive deeper into the material
 
 > **Choose words carefully**
@@ -64,20 +67,16 @@ If you're looking for a place or product in a specific location, add the locatio
 
 #### Programming Tips: 
 * `making things in javascript values` —> `js data types`
+
 * `how do I create a for loop in javascript` —> `js for loops`
 
 
 > **Don’t worry about the little things**
 > * **Spelling.** Google's spell checker automatically uses the most common spelling of a given word, whether or not you spell it correctly. 
-* **Capitalization.** A search for `New York Times` is the same as a search for `new york times`.
+> * **Capitalization.** A search for `New York Times` is the same as a search for `new york times`.
 
 
-
-
-### > Expert Search tips
-* [Search operators](https://support.google.com/websearch/answer/2466433)
-
-> Refine web searches
+### Expert Search tips [Search operators](https://support.google.com/websearch/answer/2466433)
 
 > **Exclude words from your search**
 > Put - in front of a word you want to leave out. For example, `jaguar speed -car`
@@ -85,7 +84,7 @@ If you're looking for a place or product in a specific location, add the locatio
 > **Search for an exact match**
 > Put a word or phrase inside quotes. For example, `"tallest building"` 
 
-### Let's make some google searches
+## Let's make some google searches
 
 Search [change a number to a string js](
 https://www.google.com/search?ei=5Pd2XOXEKcGQ_Qal6rywAw&q=change+a+number+to+a+string+js&oq=change+a+number+to+a+string+js&gs_l=psy-ab.3..0i22i30l2.9745.17598..18138...0.0..0.225.2453.24j5j1......0....1..gws-wiz.......0i71j35i39j0i131j0j0i67j0i20i263j0i22i10i30.FKBMZLqyNCU)
@@ -96,7 +95,9 @@ https://www.google.com/search?ei=5Pd2XOXEKcGQ_Qal6rywAw&q=change+a+number+to+a+s
 
 
 Can’t remember concat?
-Search [`combine string values js`](https://www.google.com/search?client=firefox-b-1-d&ei=tER3XPihFKeQ_Qa755DoCA&q=combine+string+values+js&oq=combine+string+values+js&gs_l=psy-ab.3..35i39.26752.28099..28307...0.0..0.299.904.3j3j1......0....1..gws-wiz.......0i71j0i8i30j0i8i7i30.1Idq0BCC3mU) or [`combine string js`](https://www.google.com/search?client=firefox-b-1-d&q=combine+string+js)
+Search [`combine string js`](https://www.google.com/search?client=firefox-b-1-d&q=combine+string+js)
+Now add values to your search [`combine string values js`](https://www.google.com/search?client=firefox-b-1-d&ei=tER3XPihFKeQ_Qa755DoCA&q=combine+string+values+js&oq=combine+string+values+js&gs_l=psy-ab.3..35i39.26752.28099..28307...0.0..0.299.904.3j3j1......0....1..gws-wiz.......0i71j0i8i30j0i8i7i30.1Idq0BCC3mU)
+
 **See the difference one word can make?**
 1. Read the definition
 2. W3schools
@@ -105,6 +106,7 @@ Search [`combine string values js`](https://www.google.com/search?client=firefox
 * click run button
 * click me button 
 
+**Stack Overflow**
 
 Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=concat+arrays)
 1. Read the definition
@@ -114,32 +116,32 @@ Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=co
 * Scan the the question and go to the answer
 
 
-
-
-[‘for loop js’](https://www.google.com/search?ei=bgp3XO6HI4z5_AaHmY-QCg&q=for+loop+js&oq=for+loop+js&gs_l=psy-ab.3..35i39j0j0i20i263j0l7.15307810.15307810..15308594...0.0..0.96.96.1......0....2j1..gws-wiz.......0i71.Al-lO1eot14)
+**In order to understand loops and while loops**
+Search [‘for loop js’](https://www.google.com/search?ei=bgp3XO6HI4z5_AaHmY-QCg&q=for+loop+js&oq=for+loop+js&gs_l=psy-ab.3..35i39j0j0i20i263j0l7.15307810.15307810..15308594...0.0..0.96.96.1......0....2j1..gws-wiz.......0i71.Al-lO1eot14)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
-Too much information!
+Very imformative, but maybe an overload
 
 https://www.geeksforgeeks.org/loops-in-javascript/
 
-Image is great
+Image is great, but no quite what you need
 
-But this is what is going to help me:
+This :
 
 https://www.w3schools.com/js/js_loop_for.asp
 
-Takes me to while loops
+And the end of this page will take you a new topic `while loops`
 
 https://www.w3schools.com/js/js_loop_while.asp
 
-Remove/ add items from array
-Error message 
-Document in console
 
 
-### LAST STEP: reach out for assistance
+
+### LAST STEP: Reach out for assistance
+![](https://media.giphy.com/media/IoXVrbzUIuvTy/giphy.gif)
+
+In most cases, this should be your final step in finding solutions. In order to help you faster please be able to:
 1. Describe what your problem is
 2. What are you trying to do and the steps you took to create it
 3. List what you’ve tried
