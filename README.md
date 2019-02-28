@@ -130,7 +130,7 @@ Very imformative, but maybe an overload
 
 https://www.geeksforgeeks.org/loops-in-javascript/
 
-Image is great, but no quite what you need
+Image is great, but not quite what you need
 
 Let's keep searching for a better resource:
 
