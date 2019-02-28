@@ -9,9 +9,9 @@
 
 ![](https://media.giphy.com/media/5zbj7HTomGwJa37pWO/giphy.gif)
 
-Lessons are designed to expose you to new topics quickly, followed with a practice coding assignment to build muscle memory.  Mostly likely the assignment you are working on has some answers in the lesson repository. The lesson goes into depth on the subject and has additional resources links to continue learning on the subject.
+Lessons are designed to expose you to new topics quickly, followed with a practice coding assignment to build muscle memory.  Mostly likely the assignment you are working on has some answers in the lesson repository. The lesson repository goes into depth on the subject and has additional resources links to continue learning on the subject.
 
-Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day or unit.
+Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day, week or unit.
 
 <b>Check the Weekly Recap for the links of all of the lessons, practices and homework assignments.</b>
 
@@ -19,11 +19,11 @@ Lessons build on top of concepts from the previous lesson, you might have to dig
 
 ![](https://media.giphy.com/media/l3q2XTm3SOFLgtx8k/giphy.gif)
 
-During lessons: you want to be respectful of your neighbor and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3
+**During lessons:** you want to be respectful of your neighbor and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3
 
-During practice assignments: unless it is a pair programming/group assignment it's better to go to Step 4
+**During practice assignments:** unless it's a pair programming/group assignment it's better to go to Step 4
 
-After class: study together, ask questions, teach each other and que up with your TA!
+**After class:** study together, ask questions, teach each other and que up with your TA!
 
 
 ### STEP 3: Post your questions in the parking lot
@@ -34,7 +34,7 @@ The parking lot slack channel is used to ask questions and start conversations a
 
 *It is encouraged that if you feel like you know the answer to a question posted by your fellow classmates, contribute to the conversation.*
 
-Ask and answer questions without derailing the lecture, but don't forget to focus on the new material beign covered.
+**Ask and answer questions during the lecture, but don't forget to focus on the new material beign covered.**
 
 
 ### STEP 4: Google is your best friend
@@ -44,9 +44,10 @@ Ask and answer questions without derailing the lecture, but don't forget to focu
 
 You can search and find literally anthing on google. The amount of information can be an overload. The key is learning how to narrow your search by targeting keywords and quickly finding the resource that will help YOU to find your answer. 
 
-Do a google search for ```how to search on google``` and you will find this resource [How to search on Google](https://support.google.com/websearch/answer/134479?hl=en)
+Do a google search for ```how to search on google``` and you will find this resource 
+### [How to search on Google](https://support.google.com/websearch/answer/134479?hl=en)
 
-> Tip 1: Start with the basics
+> **Start with the basics**
 > No matter what you're looking for, start with a simple search like `where's the closest airport?`. You can always add a few descriptive words if necessary.
 If you're looking for a place or product in a specific location, add the location. For example, `bakery seattle`. 
 
@@ -56,9 +57,9 @@ If you're looking for a place or product in a specific location, add the locatio
 * Add `react`,`express`,`rails` - be specific to the framework
 
 * Add `tutorial` - if you want to learn something
-* Check out video tab to dive deeper into the material
+* Check out the **Video** tab to dive deeper into the material
 
-> Tip 3: Choose words carefully
+> **Choose words carefully**
 > When you're deciding what words to put in the search box, try to choose words that are likely to appear on the site you're looking for. For example, instead of saying `my head hurts`, say `headache`, because that’s the word a medical site would use.
 
 #### Programming Tips: 
@@ -66,23 +67,23 @@ If you're looking for a place or product in a specific location, add the locatio
 * `how do I create a for loop in javascript` —> `js for loops`
 
 
-> Tip 4: Don’t worry about the little things
-> * Spelling. Google's spell checker automatically uses the most common spelling of a given word, whether or not you spell it correctly. 
-* Capitalization. A search for `New York Times` is the same as a search for `new york times`.
+> **Don’t worry about the little things**
+> * **Spelling.** Google's spell checker automatically uses the most common spelling of a given word, whether or not you spell it correctly. 
+* **Capitalization.** A search for `New York Times` is the same as a search for `new york times`.
 
 
 
 
-> Expert Search tips
+### > Expert Search tips
 * [Search operators](https://support.google.com/websearch/answer/2466433)
 
 > Refine web searches
 
-> Exclude words from your search
-> Put - in front of a word you want to leave out. For example, jaguar speed -car
+> **Exclude words from your search**
+> Put - in front of a word you want to leave out. For example, `jaguar speed -car`
 
->Search for an exact match
-> Put a word or phrase inside quotes. For example, "tallest building". 
+> **Search for an exact match**
+> Put a word or phrase inside quotes. For example, `"tallest building"` 
 
 ### Let's make some google searches
 
