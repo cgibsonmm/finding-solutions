@@ -11,7 +11,7 @@
 
 ![](https://media.giphy.com/media/5zbj7HTomGwJa37pWO/giphy.gif)
 
-Lessons are designed to expose you to new topics quickly, followed with a practice coding assignment to build muscle memory.  Mostly likely the assignment you are working on has some answers in the lesson repository. The lesson repository goes into depth on the subject and has additional resources links to continue learning on the subject.
+Lessons are designed to expose you to new topics quickly, followed with a practice coding assignment to build muscle memory.  Mostly likely the assignment you are working on has some answers in the lesson repository. The lesson repository goes into depth on the subject and has additional resource links to continue learning on the subject.
 
 Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day, week or unit.
 
