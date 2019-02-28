@@ -77,7 +77,7 @@ If you're looking for a place or product in a specific location, add the locatio
 > * **Capitalization.** A search for `New York Times` is the same as a search for `new york times`.
 
 
-### Expert Search tips [Search operators](https://support.google.com/websearch/answer/2466433)
+### [Search operators](https://support.google.com/websearch/answer/2466433)
 
 > **Exclude words from your search**
 > Put - in front of a word you want to leave out. For example, `jaguar speed -car`
@@ -122,7 +122,8 @@ Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=co
 
 
 **In order to understand loops and while loops**
-Search [‘for loop js’](https://www.google.com/search?ei=bgp3XO6HI4z5_AaHmY-QCg&q=for+loop+js&oq=for+loop+js&gs_l=psy-ab.3..35i39j0j0i20i263j0l7.15307810.15307810..15308594...0.0..0.96.96.1......0....2j1..gws-wiz.......0i71.Al-lO1eot14)
+
+Search [`for loop js`](https://www.google.com/search?ei=bgp3XO6HI4z5_AaHmY-QCg&q=for+loop+js&oq=for+loop+js&gs_l=psy-ab.3..35i39j0j0i20i263j0l7.15307810.15307810..15308594...0.0..0.96.96.1......0....2j1..gws-wiz.......0i71.Al-lO1eot14)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
