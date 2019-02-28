@@ -60,7 +60,7 @@ If you're looking for a place or product in a specific location, add the locatio
 
 * Add `tutorial` - if you want to learn something
 * Add `error` - if you want to target an error
-* Check out the **Video** tab to dive deeper into the material
+
 
 > **Choose words carefully**
 > When you're deciding what words to put in the search box, try to choose words that are likely to appear on the site you're looking for. For example, instead of saying `my head hurts`, say `headache`, because that’s the word a medical site would use.
@@ -141,6 +141,10 @@ And the end of this page will take you a new topic `while loops`, *this is what 
 https://www.w3schools.com/js/js_loop_while.asp
 
 
+#### Other tips:
+
+* Check out the **Video** tab to dive deeper into the material
+* When searching to resolve errors, take out out specific line number details and focus on the key words of the error as well as adding the language, framework or topic
 
 
 ### LAST STEP: Reach out for assistance
