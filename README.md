@@ -53,7 +53,7 @@ Do a google search for ```how to search on google``` and you will find this reso
 > No matter what you're looking for, start with a simple search like `where's the closest airport?`. You can always add a few descriptive words if necessary.
 If you're looking for a place or product in a specific location, add the location. For example, `bakery seattle`. 
 
-#### Programming Tips: 
+#### Programming Examples: 
 * Add `js` - **no need to type out javascript**
 * Add `css`,`html`,`sql`,`ruby` - be specific to the language
 * Add `react`,`express`,`rails` - be specific to the framework
@@ -65,7 +65,8 @@ If you're looking for a place or product in a specific location, add the locatio
 > **Choose words carefully**
 > When you're deciding what words to put in the search box, try to choose words that are likely to appear on the site you're looking for. For example, instead of saying `my head hurts`, say `headache`, because that’s the word a medical site would use.
 
-#### Programming Tips: 
+#### Programming Examples: 
+
 * `making things in javascript values` —> `js data types`
 
 * `how do I create a for loop in javascript` —> `js for loops`
@@ -86,25 +87,29 @@ If you're looking for a place or product in a specific location, add the locatio
 
 ## Let's make some google searches
 
-Search [change a number to a string js](
+**You want to change a number to a string**
+
+Search [`change a number to a string js`](
 https://www.google.com/search?ei=5Pd2XOXEKcGQ_Qal6rywAw&q=change+a+number+to+a+string+js&oq=change+a+number+to+a+string+js&gs_l=psy-ab.3..0i22i30l2.9745.17598..18138...0.0..0.225.2453.24j5j1......0....1..gws-wiz.......0i71j35i39j0i131j0j0i67j0i20i263j0i22i10i30.FKBMZLqyNCU)
 
 
-1. Read the definition 
-2. Use the drop downs
+1. Look for information on the search results page without clicking links
+2. Use the drop downs to find your answer, *this is what you were looking for!*
 
 
-Can’t remember concat?
+**Can’t remember concat?**
+
 Search [`combine string js`](https://www.google.com/search?client=firefox-b-1-d&q=combine+string+js)
+
 Now add values to your search [`combine string values js`](https://www.google.com/search?client=firefox-b-1-d&ei=tER3XPihFKeQ_Qa755DoCA&q=combine+string+values+js&oq=combine+string+values+js&gs_l=psy-ab.3..35i39.26752.28099..28307...0.0..0.299.904.3j3j1......0....1..gws-wiz.......0i71j0i8i30j0i8i7i30.1Idq0BCC3mU)
 
-**See the difference one word can make?**
+*See the difference one word can make?*
 1. Read the definition
 2. W3schools
 3. Click on try it
-* change a value 
-* click run button
-* click me button 
+  * change a value 
+  * click run button
+  * click me button, *this is what you were looking for!*
 
 **Stack Overflow**
 
@@ -113,7 +118,7 @@ Search [`concat arrays`](https://www.google.com/search?client=firefox-b-1-d&q=co
 2. W3schools
 3. Check [stack overflow](https://stackoverflow.com/questions/3975170/javascript-how-to-join-combine-two-arrays-to-concatenate-into-one-array)
 * This is a great question and answer, it is high in upvotes
-* Scan the the question and go to the answer
+* Scan the the question quickly and go to the answer code, *this is what you were looking for!*
 
 
 **In order to understand loops and while loops**
@@ -127,11 +132,11 @@ https://www.geeksforgeeks.org/loops-in-javascript/
 
 Image is great, but no quite what you need
 
-This :
+Let's keep searching for a better resource:
 
 https://www.w3schools.com/js/js_loop_for.asp
 
-And the end of this page will take you a new topic `while loops`
+And the end of this page will take you a new topic `while loops`, *this is what you were looking for!*
 
 https://www.w3schools.com/js/js_loop_while.asp
 
