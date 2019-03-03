@@ -36,7 +36,7 @@ The parking lot slack channel is used to ask questions and start conversations a
 
 *It is encouraged that if you feel like you know the answer to a question posted by your fellow classmates, contribute to the conversation.*
 
-**Ask and answer questions during the lecture, but don't forget to focus on the new material beign covered.**
+**Ask and answer questions during the lecture, but don't forget to focus on the new material being covered.**
 
 
 ### STEP 4: Google is your best friend
