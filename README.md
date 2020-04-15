@@ -17,11 +17,11 @@ Lessons build on top of concepts from the previous lesson, you might have to dig
 
 <b>Check the Weekly Recap for the links of all of the lessons, practices and homework assignments.</b>
 
-### STEP 2: Check with your neighbor
+### STEP 2: Check with your partner
 
 ![](https://media.giphy.com/media/l3q2XTm3SOFLgtx8k/giphy.gif)
 
-**During lessons:** you want to be respectful of your neighbor and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3
+**During lessons:** you want to be respectful of your partner and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3
 
 **During practice assignments:** unless it's a pair programming/group assignment it's better to go to Step 4
 
