@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-# Finding solutions
+# Finding Solutions
 
 ## Objectives
 * Determine the steps needed to be able to find information efficiently 
@@ -15,7 +15,7 @@ Lessons are designed to expose you to new topics quickly, followed with a practi
 
 Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day, week or unit.
 
-<b>Check the Weekly Recap for the links of all of the lessons, practices and homework assignments.</b>
+<b>Check the Unit Recap on the class-info repository Wiki  for the links to all of the lessons, practices and homework assignments.</b>
 
 ### STEP 2: Check with your partner
 
@@ -25,7 +25,7 @@ Lessons build on top of concepts from the previous lesson, you might have to dig
 
 **During practice assignments:** unless it's a pair programming/group assignment it's better to go to Step 4
 
-**After class:** study together, ask questions, teach each other and que up with your TA!
+**After class:** study together, ask questions, teach each other and queue up with your TA!
 
 
 ### STEP 3: Post your questions in the parking lot
