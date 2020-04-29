@@ -100,13 +100,13 @@ Search [`number to string js`](https://www.google.com/search?q=number+to+string+
 
 **Can’t remember concat?**
 
-Search [`combine string js`](https://www.google.com/search?q=combine+string+js)
+Search [`combine string`](https://www.google.com/search?q=combine+string)
 
-Now add values to your search [`combine string values js`](https://www.google.com/search?q=combine+string+values+js)
+Now add values to your search [`combine string js`](https://www.google.com/search?q=combine+string+js)
 
-*See the difference one word can make?*
-1. Read the definition
-2. [W3schools](https://www.w3schools.com/jsref/jsref_concat_string.asp)
+*See the difference in your results?*
+1. First version gives you articles that refer to C#, Python, etc. Not what you want.
+2. Second version gives you all Javascript options, such as this one: [W3schools](https://www.w3schools.com/jsref/jsref_concat_string.asp)
   * click on try it
   * change a value 
   * click run button
@@ -114,10 +114,10 @@ Now add values to your search [`combine string values js`](https://www.google.co
 
 **Stack Overflow**
 
-Search [`concat arrays`](https://www.google.com/search?q=concat+arrays)
+Search [`concat arrays js`](https://www.google.com/search?q=concat+arrays+js)
 1. Read the definition
 2. W3schools
-3. Check [stack overflow](https://stackoverflow.com/questions/3975170/javascript-how-to-join-combine-two-arrays-to-concatenate-into-one-array)
+3. Check out [Stack Overflow](https://stackoverflow.com/questions/1584370/how-to-merge-two-arrays-in-javascript-and-de-duplicate-items)
 * This is a great question and answer, it is high in upvotes
 * Scan the the question quickly and go to the answer code, *this is what you were looking for!*
 
@@ -168,23 +168,21 @@ Uncaught TypeError: Cannot read property 'value' of undefined
 1. Look for information on the search results page without clicking links
 2. Use the drop downs to find your answer
 3. Check stack overflow - scan quickly
-4. Read articles, *this is what you were looking for!*
+4. Read articles. *These are more helpful!*
 
-https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/
-
-
-https://davidwalsh.name/fix-javascript-errors
-
+> * https://codeburst.io/uncaught-typeerror-cannot-read-property-of-undefined-in-javascript-c81e00f4a5e3
+> * https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/
+> * https://davidwalsh.name/fix-javascript-errors
 
 
 ### LAST METHOD: Reach Out For Assistance
 ![](https://media.giphy.com/media/IoXVrbzUIuvTy/giphy.gif)
 
 In most cases, this should be your final step in finding solutions. In order to help you faster please be able to:
-1. Describe what your problem is
-2. What are you trying to do and the steps you took to create it
-3. List what you’ve tried
-4. What do you think it could be
+1. Describe what your problem is.
+2. What are you trying to do and the steps you took to create it?
+3. List what you’ve tried.
+4. What do you think it could be?
 
 
 
