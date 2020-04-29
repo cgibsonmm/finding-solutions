@@ -3,11 +3,11 @@
 # Finding Solutions
 
 ## Objectives
-* Determine the steps needed to be able to find information efficiently 
+* Determine the methods you can take to find information efficiently 
 * <b>Google Tips and Tricks</b> to find new topics, code samples, scan search results, error handling and more
 
 
-## STEP 1: Check lessons and previous assignments
+## METHOD 1: Check Lessons and Previous Assignments
 
 ![](https://media.giphy.com/media/5zbj7HTomGwJa37pWO/giphy.gif)
 
@@ -17,7 +17,7 @@ Lessons build on top of concepts from the previous lesson, you might have to dig
 
 <b>Check the [class-info repository wiki](https://git.generalassemb.ly/sei-nyc-neptune/class-info/wiki) for links to all of the lessons, practices and homework assignments organized by unit.</b>
 
-### STEP 2: Check with your partner
+### METHOD 2: Check with Your Partner
 
 ![](https://media.giphy.com/media/l3q2XTm3SOFLgtx8k/giphy.gif)
 
@@ -28,7 +28,7 @@ Lessons build on top of concepts from the previous lesson, you might have to dig
 **After class:** Study together, ask questions, teach each other and queue up with your TA!
 
 
-### STEP 3: Post your questions in the parking lot
+### METHOD 3: Post Your Questions in The Parking Lot
 
 ![](https://media.giphy.com/media/l0He9nwYaiP7M7zEs/giphy.gif)
 
@@ -39,17 +39,18 @@ The parking lot slack channel is used to ask questions and start conversations a
 **Ask and answer questions during the lecture, but don't forget to focus on the new material being covered.**
 
 
-### STEP 4: Google is your best friend
+### METHOD 4: Google is Your Best Friend
 
 
 ![](https://media.giphy.com/media/o1sHpyku3WDrW/giphy.gif)
 
-You can search and find literally anthing on google. The amount of information can be an overload. The key is learning how to narrow your search by targeting keywords and quickly finding the resource that will help YOU to find your answer. 
+You can search and find literally anything on Google. The amount of information can be an overload. The key is learning how to narrow your search by targeting keywords and quickly finding the resource that will help YOU to find your answer. 
 
-Do a google search for ```how to search on google``` and you will find this resource 
+Do a Google search for ```how to search on google``` and you will find this resource 
 ### [How to search on Google](https://support.google.com/websearch/answer/134479?hl=en)
 
 > **Start with the basics**
+> <br>
 > No matter what you're looking for, start with a simple search like `where's the closest airport?`. You can always add a few descriptive words if necessary.
 If you're looking for a place or product in a specific location, add the location. For example, `bakery seattle`. 
 
@@ -63,9 +64,10 @@ If you're looking for a place or product in a specific location, add the locatio
 
 
 > **Choose words carefully**
+> <br>
 > When you're deciding what words to put in the search box, try to choose words that are likely to appear on the site you're looking for. For example, instead of saying `my head hurts`, say `headache`, because that’s the word a medical site would use.
 
-#### Programming Examples: 
+#### More Programming Examples: 
 
 * `making things in javascript values` —> `js data types`
 
@@ -77,7 +79,7 @@ If you're looking for a place or product in a specific location, add the locatio
 > * **Capitalization.** A search for `New York Times` is the same as a search for `new york times`.
 
 
-### [Search operators](https://support.google.com/websearch/answer/2466433)
+### [Search Operators](https://support.google.com/websearch/answer/2466433)
 
 > **Exclude words from your search**
 > Put - in front of a word you want to leave out. For example, `jaguar speed -car`
@@ -85,7 +87,7 @@ If you're looking for a place or product in a specific location, add the locatio
 > **Search for an exact match**
 > Put a word or phrase inside quotes. For example, `"tallest building"` 
 
-## Let's make some google searches
+## Let's make some Google searches
 
 **You want to change a number to a string**
 
@@ -143,23 +145,23 @@ And the end of this page will take you a new topic `while loops`, *this is what 
 
 #### Other Tips:
 
-* Check out the **Video** tab to dive deeper into the material
+* Check out the **Video** section or tab for more visual content on the topic
 * When searching to resolve errors, take out out specific line number details and focus on the key words of the error as well as adding the language, framework or topic
 
 #### Sample Error search
 
-**While working on your javascript project you encounter this error in your console**
+**While working on your javascript project, you encounter this error in your console:**
 
 ```
 Uncaught TypeError: Cannot read property 'value' of undefined
 ```
 
-Copy and paste the error to search for solutions
+* Copy and paste the error to search for solutions.
 
 [`Uncaught TypeError: Cannot read property 'value' of undefined`](https://www.google.com/search?q=Uncaught+TypeError%3A+Cannot+read+property+%27value%27+of+undefined&oq=Uncaught+TypeError%3A+Cannot+read+property+%27value%27+of+undefined)
 
 
-Refine your search with the tips described in this readme
+* Refine your search with the tips described in this lesson.
 
 [`error cannot read property of undefined js`](https://www.google.com/search?q=error+cannot+read+property+of+undefined+js&oq=error+cannot+read+property+of+undefined+js)
 
@@ -175,7 +177,7 @@ https://davidwalsh.name/fix-javascript-errors
 
 
 
-### LAST STEP: Reach out for assistance
+### LAST METHOD: Reach Out For Assistance
 ![](https://media.giphy.com/media/IoXVrbzUIuvTy/giphy.gif)
 
 In most cases, this should be your final step in finding solutions. In order to help you faster please be able to:
