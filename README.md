@@ -15,17 +15,17 @@ Lessons are designed to expose you to new topics quickly, followed with a practi
 
 Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day, week or unit.
 
-<b>Check the Unit Recap on the class-info repository Wiki  for the links to all of the lessons, practices and homework assignments.</b>
+<b>Check the [class-info repository wiki](https://git.generalassemb.ly/sei-nyc-neptune/class-info/wiki) for links to all of the lessons, practices and homework assignments organized by unit.</b>
 
 ### STEP 2: Check with your partner
 
 ![](https://media.giphy.com/media/l3q2XTm3SOFLgtx8k/giphy.gif)
 
-**During lessons:** you want to be respectful of your partner and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3
+**During lessons:** you want to be respectful of your partner and their process of learning. So if it's a quick "I just lost a step and can you tell me what I missed", go for it. Otherwise, it's better to go to Step 3.
 
-**During practice assignments:** unless it's a pair programming/group assignment it's better to go to Step 4
+**During practice assignments:** Unless it's a pair programming/group assignment, it's better to go to Step 4.
 
-**After class:** study together, ask questions, teach each other and queue up with your TA!
+**After class:** Study together, ask questions, teach each other and queue up with your TA!
 
 
 ### STEP 3: Post your questions in the parking lot
@@ -124,24 +124,24 @@ Search [`concat arrays`](https://www.google.com/search?q=concat+arrays)
 
 Search [`for loop js`](https://www.google.com/search?q=for+loop+js)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
-Very imformative, but maybe an overload
+_Very informative, but maybe an overload_
 
-https://www.geeksforgeeks.org/loops-in-javascript/
+> https://www.geeksforgeeks.org/loops-in-javascript/
 
-Image is great, but not quite what you need
+_Image is great, but not quite what you need_
 
-Let's keep searching for a better resource:
+Let's keep searching for a better resource...
 
-https://www.w3schools.com/js/js_loop_for.asp
+> https://www.w3schools.com/js/js_loop_for.asp
 
 And the end of this page will take you a new topic `while loops`, *this is what you were looking for!*
 
-https://www.w3schools.com/js/js_loop_while.asp
+> https://www.w3schools.com/js/js_loop_while.asp
 
 
-#### Other tips:
+#### Other Tips:
 
 * Check out the **Video** tab to dive deeper into the material
 * When searching to resolve errors, take out out specific line number details and focus on the key words of the error as well as adding the language, framework or topic
@@ -165,7 +165,7 @@ Refine your search with the tips described in this readme
 
 1. Look for information on the search results page without clicking links
 2. Use the drop downs to find your answer
-3. Check stack flow - scan quickly
+3. Check stack overflow - scan quickly
 4. Read articles, *this is what you were looking for!*
 
 https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/
