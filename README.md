@@ -102,7 +102,7 @@ Search [`number to string js`](https://www.google.com/search?q=number+to+string+
 
 Search [`combine string`](https://www.google.com/search?q=combine+string)
 
-Now add values to your search [`combine string js`](https://www.google.com/search?q=combine+string+js)
+Now add `js` to your search: [`combine string js`](https://www.google.com/search?q=combine+string+js)
 
 *See the difference in your results?*
 1. First version gives you articles that refer to C#, Python, etc. Not what you want.
