@@ -15,7 +15,7 @@ Lessons are designed to expose you to new topics quickly, followed with a practi
 
 Lessons build on top of concepts from the previous lesson, you might have to dig into a lesson from a previous day, week or unit.
 
-<b>Check the [class-info repository wiki](https://git.generalassemb.ly/sei-nyc-neptune/class-info/wiki) for links to all of the lessons, practices and homework assignments organized by unit.</b>
+<b>Check the [class-info repository wiki](https://git.generalassemb.ly/sei-nyc-bees/class-info) for links to all of the lessons, practices and homework assignments organized by unit.</b>
 
 ### METHOD 2: Check with Your Partner
 
